@@ -7,58 +7,47 @@ Basic Linux Commands
 
 Study of Unix Editors: sed, vi, emacs
 
-Shell Scripting:
+Shell Script - Arithmetic Operation using expr command
 
-Arithmetic Operations using expr
+Shell Script - Check Leap Year using if-else
 
-Leap Year Check using if-else
+Shell Script - Reverse the Number using while loop
 
-Reverse a Number using while loop
+Shell Script - Fibonacci Series using for loop
 
-Fibonacci Series using for loop
+Text Processing using Awk - Employee Average Pay
 
-Text Processing using awk:
+Text Processing using Awk - Results of an Examination
 
-Employee Average Pay
+System Calls – fork(), exec(), getpid(), opendir(), readdir()
 
-Examination Results
+FCFS Scheduling Algorithm
 
-System Calls:
+SJF Scheduling Algorithm
 
-fork(), exec(), getpid()
+Priority Scheduling Algorithm
 
-Directory operations: opendir(), readdir()
-
-CPU Scheduling Algorithms:
-
-FCFS (First-Come, First-Served)
-
-SJF (Shortest Job First)
-
-Priority Scheduling
-
-Round Robin Scheduling
+Round Robin Scheduling Algorithm
 
 Inter-Process Communication using Shared Memory
 
-Producer-Consumer Problem using Semaphores
+Producer Consumer Problem using Semaphores
 
-Banker's Algorithm for Deadlock Avoidance
+Banker's Deadlock Avoidance Algorithm
 
-Memory Allocation Techniques:
+Best Fit Memory Allocation
 
-Best Fit
+First Fit Memory Allocation
 
-First Fit
+FIFO Page Replacement Algorithm
 
-Page Replacement Algorithms:
+LRU Page Replacement Algorithm
 
-FIFO (First In First Out)
+Optimal Page Replacement Algorithm
 
-LRU (Least Recently Used)
+File Organization Technique - Single Level Directory
 
-Optimal
-
+File Organization Technique - Two Level Directory
 File Organization Techniques:
 
 Single-level Directory
